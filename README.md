@@ -1,3 +1,5 @@
+> **Archive Notice:** This repository has been consolidated into [coreblow/corechat](https://github.com/coreblow/corechat) (`pkg/corekit`) and archived.
+
 # CoreKit
 
 Shared CoreBlow local-first toolkit.
